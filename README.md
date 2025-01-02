@@ -1,5 +1,5 @@
 ## helpity
 
-# a therapy react native app
+# a therapy finder react native app
 will be uploaded soon...
 
